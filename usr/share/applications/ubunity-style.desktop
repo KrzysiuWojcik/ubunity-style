@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Yaru style
+Categories=Compiz;GNOME;GTK;X-Unity-Settings-Panel;Settings;X-GNOME-Settings-Panel;X-GNOME-PersonalSettings;
+X-GNOME-Settings-Panel=Yaru style
+X-Unity-Settings-Panel=Yaru style
+Icon=/opt/ubunity-style/icon.png
+Type=Application
+Terminal=false
+Version=1.0-1
+Exec=/opt/ubunity-style/ubunity-style
