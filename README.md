@@ -1,3 +1,4 @@
+![icon](https://user-images.githubusercontent.com/36552450/158229544-edc49279-958e-427c-b032-84fdb786edaf.png)
 # Yaru style (ubunity-style)
 Light/dark mode selector for Ubuntu Unity
 
