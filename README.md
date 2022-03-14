@@ -8,10 +8,10 @@ Light/dark mode selector for Ubuntu Unity
 
 # Screenshots
 ![UBUNITY-STYLE_light](https://user-images.githubusercontent.com/36552450/158227260-c2aac45c-2166-4d81-9c41-a7ce3cdb105e.png)
-Light mode selected
+<br>Light mode selected<br><br>
 
 ![UBUNITY-STYLE_dark](https://user-images.githubusercontent.com/36552450/158227290-f4dc054d-8e7a-41de-8b24-1309d555fa0a.png)
-Dark mode selected
+<br>Dark mode selected<br><br>
 
 ![SETTINGS](https://user-images.githubusercontent.com/36552450/158227333-fa3d77b3-22b5-469f-a35a-ecc3398d5ef7.png)
-Yaru style icon in System Settings
+<br>Yaru style icon in System Settings<br><br>
